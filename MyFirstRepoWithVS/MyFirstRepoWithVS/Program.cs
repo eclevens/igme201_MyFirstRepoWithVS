@@ -10,6 +10,7 @@ namespace MyFirstRepoWithVS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World yay!");
         }
     }
 }
